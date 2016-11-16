@@ -1,6 +1,5 @@
 # Can I submit an article with javascript to The Atlantic?
 
-*Hello Chris*,
 
 I'm a web developer writing an article about internet pioneer [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson).
 
@@ -10,7 +9,6 @@ For my article, I wrote a custom jQuery plugin in an attempt to demonstrate how 
 
 Why contact you?
 -----------------
-I'm contacting you because I saw that you developed a n-level [footnoting system for the David Foster Wallace article](https://github.com/theatlantic/host). My project is similar, but it is centered around Ted Nelson's hypertext vision.
 
 ###My Javascript Library
 

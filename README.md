@@ -9,6 +9,7 @@ For my article, I wrote a custom jQuery plugin in an attempt to demonstrate how 
 
 Why contact you?
 -----------------
+I'm contacting you because I saw that *The Atlantic* developed a n-level [footnoting system for the David Foster Wallace article](https://github.com/theatlantic/host) that ran in *The Atlantic*. My project is similar, but it is centered around Ted Nelson's hypertext vision.
 
 ###My Javascript Library
 

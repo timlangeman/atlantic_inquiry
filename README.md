@@ -1,5 +1,6 @@
 # Can I submit an article with javascript to The Atlantic?
 
+*Hello Frankie and Chris*,
 
 I'm a web developer writing an article about internet pioneer [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson).
 

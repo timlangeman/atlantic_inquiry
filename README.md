@@ -3,13 +3,13 @@
 
 I'm a web developer writing an article about internet pioneer [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson).
 
-I'm wondering whether I **can use javascript as part of my article submission**.
+I'm wondering whether I **can use javascript as part of my article submission?**
 
 For my article, I wrote a custom jQuery plugin in an attempt to demonstrate how hypertext would be different had Ted Nelson succeeded instead of [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/).
 
 Why contact you?
 -----------------
-I'm contacting you because I saw that *The Atlantic* developed a n-level [footnoting system for the David Foster Wallace article](https://github.com/theatlantic/host) that ran in *The Atlantic*. My project is similar, but it is centered around Ted Nelson's hypertext vision.
+I'm contacting you because I saw that *The Atlantic* developed a n-level [footnoting system for the David Foster Wallace article](https://github.com/theatlantic/host). My project is similar, but it is centered around Ted Nelson's hypertext vision.
 
 ###My Javascript Library
 
